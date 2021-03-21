@@ -1,0 +1,12 @@
+body {
+    font-family: 'Verdana', sans-serif;
+  }
+  #pageTopic {
+    text-align: left;
+    font-size: 30px;
+    font-weight: 900;
+  }
+  .colorContainer {
+    display: inline-block;
+    margin: 15px;
+  }
